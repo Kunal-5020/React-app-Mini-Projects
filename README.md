@@ -1,2 +1,3 @@
 # React-app-Mini-Projects
- Its contain mini project created by me with react app
+ This repository contain some small mini react app
+ I created these project when I just started learning react app
